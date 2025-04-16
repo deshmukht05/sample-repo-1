@@ -2,8 +2,8 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: auto;
-    height: auto;
+    width: 100px;
+    height: 200px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1);
     position: relative;
 }
